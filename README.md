@@ -8,7 +8,7 @@ A template for a modern looking website to promote your Minecraft server.
 
 Written with HTML and a lot of CSS and the minimal usage of JavaScript.
 
-
+Test it out: https://fqqd.github.io/MCServer-Web-Template/index.html
 
 
 ## Features
