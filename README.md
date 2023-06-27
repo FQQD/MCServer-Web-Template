@@ -42,7 +42,7 @@ Reading through the code should be enough to understand what you are able to edi
 
 #### Where can I host this website?
 
-I recommend hosting the website on your own Linux VServer with Caddyserver, but if you need to have a free hosting service, I recommend Neocities.
+I recommend hosting the website on your own Linux VServer with Caddyserver, but if you need to have a free hosting service, I recommend Neocities or GitHub Pages.
 
 #### Why would I need such a website?
 
