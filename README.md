@@ -37,7 +37,7 @@ Reading through the code should be enough to understand what you are able to edi
 - "Widget"
 - Enable Server Widget
 - Select an Invite Channel (e.g. the main chat)
-- Manually copy ONLY THE LINK ("https://discord.com/widget?id=[SERVER ID]&theme=dark")
+- Manually copy ONLY THE LINK ("https://discord.com/widget?id=[SERVER-ID]&theme=dark")
 - Replace the imgur link in the Discord Section with the Discord Widget link
 
 #### Where can I host this website?
