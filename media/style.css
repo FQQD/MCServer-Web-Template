@@ -6,7 +6,11 @@
     --accent2_transp: #05b30555;
     --background1: #212529;
     --background2: #16191b;
-
+    
+::selection {
+    background-color: #265228; /* Цвет фона выделенного текста */
+    color: white; /* Цвет текста при выделении */
+}
 
     color-scheme: dark;
 }
