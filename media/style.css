@@ -17,7 +17,7 @@ span {
 
 body {
     font-family:'Space Grotesk', sans-serif;
-    background-color: #265228;
+    background-color: var(--background);
     color: white;
     margin:0px;
 }
