@@ -20,6 +20,7 @@ body {
     background-color: var(--background1);
     color: white;
     margin:0px;
+    max-width: 1200px;
 }
 
 
