@@ -19,8 +19,10 @@ body {
     font-family:'Space Grotesk', sans-serif;
     background-color: var(--background1);
     color: white;
-    margin:0px;
     max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 
@@ -208,17 +210,17 @@ body {
 .started {
     background: rgba(0, 0, 0, .5) url(started.jpg);
     background-size: 100% auto;
-    background-position: center 75%;
+    background-position: center 55%;
 }
 .rules {
     background: rgba(0, 0, 0, .5) url(rules.jpg);
     background-size: 100% auto;
-    background-position: center 90%;
+    background-position: center 70%;
 }
 .aboutlogo {
     background: rgba(0, 0, 0, .5) url(NHCStaff.png);
     background-size: 100% auto;
-    background-position: center 90%;
+    background-position: center 60%;
 }
 .main1_logo_a {
     margin-bottom: var(--nice-padding);
