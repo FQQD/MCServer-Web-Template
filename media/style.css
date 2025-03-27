@@ -199,12 +199,26 @@ body {
     align-items: center;
     align-content: center;
     justify-content: center;
-    background: rgba(0, 0, 0, .5) url('https://imgur.com/cGMLytH.png');
+    background: rgba(0, 0, 0, .5) url(hogwarts.png);
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
-
+.started {
+    background: rgba(0, 0, 0, .5) url(started.jpg);
+    background-size: 100% auto;
+    background-position: center 75%;
+}
+.rules {
+    background: rgba(0, 0, 0, .5) url(rules.jpg);
+    background-size: 100% auto;
+    background-position: center 90%;
+}
+.aboutlogo {
+    background: rgba(0, 0, 0, .5) url(NHCStaff.png);
+    background-size: 100% auto;
+    background-position: center 90%;
+}
 .main1_logo_a {
     margin-bottom: var(--nice-padding);
     cursor: default;
@@ -212,7 +226,7 @@ body {
 
 .main1_logo {
     display: block;
-    align-self: center;
+    align-self: center; 
     margin-left:auto;
     margin-right: auto;
     transition: all .5s;
