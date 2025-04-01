@@ -1,130 +1,142 @@
-[
-    {
-        "name": "HeruEdhel",
-        "uuid": "46b7fbec-8f7e-46e0-a992-4de8b6460810",
-        "role": "Technical Operations",
-        "group": "Admins",
-        "link": "https://example.com/heruedhel",
-        "about": "The creator and maintainer of the server.\nLoves building and exploring."
-    },
-    {
-        "name": "znyo",
-        "uuid": "b4482a8d-d67b-42eb-8ffb-e703d3fbfce5",
-        "role": "Community Mod",
-        "group": "Moderators",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "ZachOfSpades",
-        "uuid": "bfafb108-8937-48ae-9ea6-5b768e179694",
-        "role": "Owner",
-        "group": "Admins",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "primariswolf",
-        "uuid": "4aa82ab4-d717-4b72-b740-30858a9a114c",
-        "role": "Admin",
-        "group": "Admins",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "MrsBadger22",
-        "uuid": "bcc6e31d-2769-4013-a399-64561a012e03",
-        "role": "Community Mod",
-        "group": "Moderators",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "JesseMC",
-        "uuid": "b4a05a12-1be7-4dd3-b21c-1f8a8fab4e8a",
-        "role": "Community Mod",
-        "group": "Moderators",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "Doomdots",
-        "uuid": "f3e2ef27-8321-4e1d-a1c7-40cd747691f7",
-        "role": "Owner",
-        "group": "Admins",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "aiden__cole",
-        "uuid": "018c4887-81f6-43db-bdce-7494dde00e24",
-        "role": "Event Host",
-        "group": "Players",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "Honey_C00kie",
-        "uuid": "842d6a52-dcb7-40fd-91a7-31249743a354",
-        "role": "Event Host",
-        "group": "Players",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "pyeeet",
-        "uuid": "c2c81fb6-19bf-4ba8-b881-43521545601e",
-        "role": "Owner",
-        "group": "Admins",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "RoseyLeigh",
-        "uuid": "c9cc79f2-9cb3-4f79-9f4a-577ef1cdc436",
-        "role": "Event Host",
-        "group": "Players",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "JXRD0",
-        "uuid": "b8cedb03-135f-4c93-a895-6b9913fed6ce",
-        "role": "Community Mod",
-        "group": "Moderators",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "jk4k",
-        "uuid": "0e2f4ffb-704b-4be1-a430-33c7df8a2161",
-        "role": "Community Mod",
-        "group": "Moderators",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "trikki",
-        "uuid": "7b0d2b3b-50c3-42dc-9aa6-095c8f10a92b",
-        "role": "Technical Operations",
-        "group": "Admins",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "Rapdog11",
-        "uuid": "092b41ce-9925-48c6-b63e-72e7dd31cb3b",
-        "role": "Event Host",
-        "group": "Players",
-        "link": "",
-        "about": ""
-    },
-    {
-        "name": "FacepalmCuzOfYou",
-        "uuid": "c4c47ae6-00b4-4a6e-807e-f0c9e3fe0186",
-        "role": "Community Mod",
-        "group": "Moderators",
-        "link": "",
-        "about": ""
-    }
-]
+{
+    "GOD EMPEROR":{
+        "groupabout":"The one and only. The one who rules them all. The one who is the best at everything.",
+        "players":[
+        {
+            "name": "Revan293",
+            "uuid": "b34ab7e8-0bc0-4b1a-8988-65fe0a2af3bd",
+            "role": "GOD EMPEROR",
+            "link": "",
+            "about": "The true ruler of the world"
+        }
+    ]},
+    
+    "Owners": {
+        "groupabout":"The OGs of the server. They are the ones who started it all and keep it running.",
+        "players":[
+        {
+            "name": "ZachOfSpades",
+            "uuid": "bfafb108-8937-48ae-9ea6-5b768e179694",
+            "role": "Owner",
+            "link": "",
+            "about": ""
+        },
+        {
+            "name": "Doomdots",
+            "uuid": "f3e2ef27-8321-4e1d-a1c7-40cd747691f7",
+            "role": "Owner",
+            "link": "",
+            "about": ""
+        },
+        {
+            "name": "pyeeet",
+            "uuid": "c2c81fb6-19bf-4ba8-b881-43521545601e",
+            "role": "Owner",
+            "link": "",
+            "about": ""
+        }
+    ]},
+    "Admins": {
+        "groupabout":"The ones who help the owners run the server. They are the ones who make sure everything is running smoothly.",
+        "players":[
+        {
+            "name": "HeruEdhel",
+            "uuid": "46b7fbec-8f7e-46e0-a992-4de8b6460810",
+            "role": "Technical Operations",
+            "link": "https://example.com/heruedhel",
+            "about": "Wanages the websites and texture packs. I love exploring and coding."
+        },
+        {
+            "name": "primariswolf",
+            "uuid": "4aa82ab4-d717-4b72-b740-30858a9a114c",
+            "role": "Admin",
+            "link": "",
+            "about": ""
+        },
+        {
+            "name": "trikki",
+            "uuid": "7b0d2b3b-50c3-42dc-9aa6-095c8f10a92b",
+            "role": "Technical Operations",
+            "link": "",
+            "about": ""
+        }
+    ]},
+    "Community Moderators": {
+        "Desc":"Keepers of the peace. They are the ones who make sure everyone is following the rules and having a good time.",
+        "players":[
+        {
+            "name": "znyo",
+            "uuid": "b4482a8d-d67b-42eb-8ffb-e703d3fbfce5",
+            "role": "Community Mod",
+            "link": "",
+            "about": ""
+        },
+        {
+            "name": "MrsBadger22",
+            "uuid": "bcc6e31d-2769-4013-a399-64561a012e03",
+            "role": "Community Mod",
+            "link": "",
+            "about": ""
+        },
+        {
+            "name": "JesseMC",
+            "uuid": "b4a05a12-1be7-4dd3-b21c-1f8a8fab4e8a",
+            "role": "Community Mod",
+            "link": "",
+            "about": ""
+        },
+        {
+            "name": "JXRD0",
+            "uuid": "b8cedb03-135f-4c93-a895-6b9913fed6ce",
+            "role": "Community Mod",
+            "link": "",
+            "about": ""
+        },
+        {
+            "name": "jk4k",
+            "uuid": "0e2f4ffb-704b-4be1-a430-33c7df8a2161",
+            "role": "Community Mod",
+            "link": "",
+            "about": ""
+        },
+        {
+            "name": "FacepalmCuzOfYou",
+            "uuid": "c4c47ae6-00b4-4a6e-807e-f0c9e3fe0186",
+            "role": "Community Mod",
+            "link": "",
+            "about": ""
+        }
+    ]},
+    "Event Hosts": {
+        "Desc":"The creative minds behind the events. They are the ones who come up with the ideas and make them happen.",
+        "players":[
+        {
+            "name": "aiden__cole",
+            "uuid": "018c4887-81f6-43db-bdce-7494dde00e24",
+            "role": "Event Host",
+            "link": "",
+            "about": ""
+        },
+        {
+            "name": "Honey_C00kie",
+            "uuid": "842d6a52-dcb7-40fd-91a7-31249743a354",
+            "role": "Event Host",
+            "link": "",
+            "about": ""
+        },
+        {
+            "name": "RoseyLeigh",
+            "uuid": "c9cc79f2-9cb3-4f79-9f4a-577ef1cdc436",
+            "role": "Event Host",
+            "link": "",
+            "about": ""
+        },
+        {
+            "name": "Rapdog11",
+            "uuid": "092b41ce-9925-48c6-b63e-72e7dd31cb3b",
+            "role": "Event Host",
+            "link": "",
+            "about": ""
+        }
+    ]}
+}
