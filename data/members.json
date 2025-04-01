@@ -62,7 +62,7 @@
         }
     ]},
     "Community Moderators": {
-        "Desc":"Keepers of the peace. They are the ones who make sure everyone is following the rules and having a good time.",
+        "groupabout":"Keepers of the peace. They are the ones who make sure everyone is following the rules and having a good time.",
         "players":[
         {
             "name": "znyo",
@@ -108,7 +108,7 @@
         }
     ]},
     "Event Hosts": {
-        "Desc":"The creative minds behind the events. They are the ones who come up with the ideas and make them happen.",
+        "groupabout":"The creative minds behind the events. They are the ones who come up with the ideas and make them happen.",
         "players":[
         {
             "name": "aiden__cole",
