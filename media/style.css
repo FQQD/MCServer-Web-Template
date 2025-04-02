@@ -219,7 +219,10 @@ body {
     background-size: 100% auto;
     background-position: center 55%;
 }
-
+.maingallery {
+    background: none;
+    padding-top:0;
+}
 .rules {
     background: rgba(0, 0, 0, .5) url(rules.jpg);
     background-size: 100% auto;
@@ -869,3 +872,75 @@ body {
     font-size: 1rem;
     width: 100%;
 }   
+
+
+
+gallery {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 15px;
+    width: 100%;
+  }
+
+  .gallery-container {
+    width: 100%;
+    max-width: 900px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .gallery-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: opacity 0.5s ease-in-out;
+  }
+
+  .gallery-controls {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .gallery-button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+  }
+
+  .gallery-button:hover {
+    background-color: #0056b3;
+  }
+
+  /* New styles for thumbnails */
+  .gallery-thumbnails {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .thumbnail {
+    width: 100px;
+    height: auto;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: transform 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .thumbnail:hover {
+    transform: scale(1.05);
+  }
