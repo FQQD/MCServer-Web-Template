@@ -1,5 +1,5 @@
 
-![Website Banner]([https://imgur.com/VE1nWC7.png](https://i.ibb.co/0pC7qyL4/main-banner.png))
+![Website Banner](https://imgur.com/VE1nWC7.png](https://i.ibb.co/0pC7qyL4/main-banner.png)
 
 
 # Laman Situs
